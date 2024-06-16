@@ -16,7 +16,6 @@ import net.sf.dynamicreports.report.exception.DRException;
 import org.jfree.chart.JFreeChart;
 import org.jfree.chart.labels.StandardCategoryItemLabelGenerator;
 import org.jfree.chart.renderer.category.BarRenderer;
-
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.Serializable;
